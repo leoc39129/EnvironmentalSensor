@@ -1,1 +1,2 @@
 # EnvironmentalSensor
+Since the environmental sensor I created was a part of a semester long project in a past class sponsored by Garmin, I can't make any code or designs publicly available. However, I can show the final product via videos and pictures we captured while testing and documenting throughout the semester. If you would like to talk about the project and have me explain some of it, I would be happy to do so - all you have to do is ask!
